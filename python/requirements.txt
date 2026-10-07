@@ -1,0 +1,3 @@
+# List every third-party package your Python solution needs, one per line, e.g.
+# numpy
+# matplotlib
